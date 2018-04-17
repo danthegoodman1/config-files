@@ -1,0 +1,11 @@
+{
+    "workbench.startupEditor": "",
+    "files.hotExit": "off",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 13,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Dracula Soft",
+    "window.openFilesInNewWindow": "on",
+}
